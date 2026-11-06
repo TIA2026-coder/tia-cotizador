@@ -1,0 +1,23 @@
+{
+ "name": "Cotizador Herrería Robles",
+ "short_name": "H. Robles",
+ "start_url": "./robles.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#121212",
+ "theme_color": "#121212",
+ "lang": "es-MX",
+ "icons": [
+  {
+   "src": "iconos/robles-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "iconos/robles-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}

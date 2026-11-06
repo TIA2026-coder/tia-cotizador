@@ -1,0 +1,23 @@
+{
+ "name": "Cotizador de Herrería TIA",
+ "short_name": "Cotizador",
+ "start_url": "./generica.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#121212",
+ "theme_color": "#121212",
+ "lang": "es-MX",
+ "icons": [
+  {
+   "src": "iconos/tia-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "iconos/tia-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
